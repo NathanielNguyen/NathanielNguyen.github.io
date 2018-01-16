@@ -1,0 +1,33 @@
+h1 {
+    background-color: lightblue;
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+
+li.navi {
+    display: inline;
+    font-size: 24px;
+    margin: 10px;
+}
+ul.navi {
+    text-align: center;
+}
+
+p.posts { 
+    font-size: 200%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+}
+
+body {
+    margin: 100px;
+    this is a line
+    this is a 
+    this is
+    this is 
+
+
+}
+
